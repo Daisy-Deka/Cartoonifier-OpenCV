@@ -44,5 +44,9 @@ This beginner-friendly project runs perfectly on Google Colab or any Python envi
 ---
 
 ## 📂 Project Structure
+📁 Cartoonifier-Project
+├─ 📜 README.md
+├─ 📜 cartoonify.ipynb
+├─ 🖼️ high_quality_cartoon.jpg (output)
 
 print("✔ Cartoon image saved as: high_quality_cartoon.jpg")
